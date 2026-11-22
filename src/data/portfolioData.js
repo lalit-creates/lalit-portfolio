@@ -33,7 +33,7 @@ export const PROJECTS = [
       'Seamless VFX compositing and live-action integration completed at Black FXStudio.',
     tags: ['After Effects', 'Mocha Pro', 'Compositing'],
     image:
-      'https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&q=80&w=800',
+      '/ankit.png?auto=format&fit=crop&q=80&w=800',
     youtubeEmbedUrl: 'https://www.youtube.com/embed/d95PPykB2vE?autoplay=1',
     youtubeWatchUrl: 'https://www.youtube.com/watch?v=d95PPykB2vE',
     driveUrl: DRIVE_PORTFOLIO_URL,
@@ -216,4 +216,5 @@ export const PRICING_PACKAGES = [
       'Priority 24/7 Support',
     ],
   },
+  
 ];
