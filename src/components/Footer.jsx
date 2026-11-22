@@ -20,7 +20,7 @@ export default function Footer({ isDark }) {
         </p>
         <div className="flex items-center gap-3">
           <a
-            href="mailto:ly740021@gmail.com"
+            href="mailto:lalit7400work@gmail.com"
             aria-label="Email"
             className={`w-10 h-10 rounded-full ${cardSurface} hover:bg-[#6366f1] border flex items-center justify-center ${headingText} hover:text-white transition-all`}
           >

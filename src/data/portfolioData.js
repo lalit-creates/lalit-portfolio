@@ -109,6 +109,20 @@ export const PROJECTS = [
     youtubeWatchUrl: 'https://www.youtube.com/watch?v=ysz5S6PUM-U',
     driveUrl: DRIVE_PORTFOLIO_URL,
   },
+  {
+    id: 'dettol',
+    filterKey: 'vfx',
+    category: 'VFX Compositing',
+    title: 'Dettol Commercial Campaign',
+    description:
+      'Seamless VFX compositing and live-action integration completed at Black FXStudio.',
+    tags: ['After Effects', 'Mocha Pro', 'Compositing'],
+    image:
+      'https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&q=80&w=800',
+    youtubeEmbedUrl: 'https://www.youtube.com/embed/d95PPykB2vE?autoplay=1',
+    youtubeWatchUrl: 'https://www.youtube.com/watch?v=d95PPykB2vE',
+    driveUrl: DRIVE_PORTFOLIO_URL,
+  },
 ];
 
 export const TOOLS_STACK = [
@@ -163,7 +177,7 @@ export const PRICING_PACKAGES = [
   {
     name: 'Creator Starter',
     tagline: 'For YouTubers & Regular Content Creators',
-    price: '₹4,000',
+    price: '₹2,000',
     unit: '/ video',
     popular: false,
     ctaLabel: 'Choose Starter',
