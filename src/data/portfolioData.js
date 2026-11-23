@@ -30,12 +30,12 @@ export const PROJECTS = [
     category: 'VFX Compositing',
     title: 'Dettol Commercial Campaign',
     description:
-      'Seamless VFX compositing and live-action integration completed at Black FXStudio.',
+      'I have done Roto and VFX compositing for this commercial video at Black FXStudio.',
     tags: ['After Effects', 'Mocha Pro', 'Compositing'],
     image:
-      '/ankit.png?auto=format&fit=crop&q=80&w=800',
-    youtubeEmbedUrl: 'https://www.youtube.com/embed/d95PPykB2vE?autoplay=1',
-    youtubeWatchUrl: 'https://www.youtube.com/watch?v=d95PPykB2vE',
+      '/public/lalit.jpg?auto=format&fit=crop&q=80&w=800',
+    youtubeEmbedUrl: 'https://www.youtube.com/embed/LjCIAUug-9c?autoplay=1',
+    youtubeWatchUrl: 'https://www.youtube.com/watch?LjCIAUug-9c',
     driveUrl: DRIVE_PORTFOLIO_URL,
   },
   {
