@@ -44,12 +44,12 @@ export const PROJECTS = [
     category: 'VFX & Rotoscope',
     title: 'Farzi Series Promo Video',
     description:
-      'High-speed rotoscoping and clean visual compositing for promotional teaser.',
+      'High-speed rotoscoping and clean visual compositing for promotional teaser of Farzi webseries at BlackFxtudio.',
     tags: ['Rotoscoping', 'Premiere Pro', 'VFX'],
     image:
       '/lalit.jpg?auto=format&fit=crop&q=80&w=800',
-    youtubeEmbedUrl: 'https://www.youtube.com/embed/D2PZUB_lDCk?autoplay=1',
-    youtubeWatchUrl: 'https://www.youtube.com/watch?v=D2PZUB_lDCk',
+    youtubeEmbedUrl: 'https://www.youtube.com/embed/shorts/1cgBP9nhVbE?feature=share?autoplay=1',
+    youtubeWatchUrl: 'https://www.youtube.com/shorts/1cgBP9nhVbE?feature=share'
     driveUrl: DRIVE_PORTFOLIO_URL,
     
   },

@@ -73,7 +73,7 @@ export default function AboutMe({ isDark }) {
                 alt="Lalit Kumar Yadav"
                 onError={(e) => {
                   e.currentTarget.src =
-                    '/lalit.jpg';
+                    '/public/Lalit 1x1.png';
                 }}
                 className="w-full h-[380px] sm:h-[420px] object-fit: scale-down rounded-xl transition-transform duration-500 group-hover:scale-[1.02]"
               />
